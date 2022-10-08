@@ -14,7 +14,7 @@ Senior Android Developer
 
 `10/2021 - now`
 __Senior Android Developer @Lite e-commerce__
-___
+
 _Warsaw - Remotely - Product_
 - 2 q-commerce apps (JUSH & DELIO)
 
