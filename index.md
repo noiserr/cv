@@ -41,7 +41,8 @@ __Android Developer @Angry Nerds__
 __Android Developer @Droids on Roids__
 
 - Wrocław Office - Software House
-- internship, Hematologist’s Calculator, CCC Shoes & Bags, app for travellers (NDA), Your Card
+- internship, Hematologist’s Calculator, 
+- CCC Shoes & Bags, app for travellers (NDA), Your Card
 
 
 ## EDUCATION
