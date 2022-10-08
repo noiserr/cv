@@ -21,25 +21,25 @@ __Senior Android Developer @Lite e-commerce__
 `06/2019 - 08/2021`
 __Senior Android Developer @Kangaroo__
 
-- Remotely - New York, Shenzhen - Product
+_- Remotely - New York, Shenzhen - Product
 - Application for managing cheap home security system
 
 `03/2019 - 06/2019`
 __Android Developer @ingenious.io__
 
-- Remotely - Chicago - Product
+_- Remotely - Chicago - Product
 - Android app for managing building sites
 
 `10/2018 - 03/2019`
 __Android Developer @Angry Nerds__
 
-- Wrocław Office - Software House
+_- Wrocław Office - Software House_
 - ZEISS Hunting App
 
 `09/2015 - 09/2018`
 __Android Developer @Droids on Roids__
 
-- Wrocław Office - Software House
+_- Wrocław Office - Software House
 - Hematologist’s Calculator,
 - CCC Shoes & Bags, app for travellers (NDA), Your Card
 
