@@ -2,8 +2,8 @@
 layout: cv
 title: Marcin Mazepa's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Marcin Mazepa
+Senior Android Developer.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
