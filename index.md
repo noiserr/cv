@@ -6,8 +6,8 @@ title: Marcin Mazepa's CV
 Senior Android Developer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="marcinmazepa@gmail.com">marcinmazepa@gmail.com</a>
+| <a href="https://www.linkedin.com/in/marcin-mazepa-a80484130/">My LinkedIn profile</a>
 </div>
 
 
