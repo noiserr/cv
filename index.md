@@ -27,19 +27,35 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Experience
 
-`1654-1660`
-__The King's School, Grantham.__
+`10/2021 - now`
+__Senior Android Developer @Lite e-commerce__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Remotely - Warsaw - Product
+- 2 q-commerce apps (JUSH & DELIO)
 
-- Sizar
+`06/2019 - 08/2021`
+__Senior Android Developer @Kangaroo__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Remotely - New York, Shenzhen - Product
+- Application for managing cheap home security system
 
-- Fellow
+`03/2019 - 06/2019`
+__Android Developer @ingenious.io__
 
+- Remotely - Chicago - Product
+- Android app for managing building sites
+
+`10/2018 - 03/2019`
+__Android Developer @Angry Nerds__
+
+- Wrocław Office - Software House
+- ZEISS Hunting App
+
+`10/2018 - 03/2019`
+__Android Developer @Droids on Roids__
+
+- Wrocław Office - Software House
+- internship, Hematologist’s Calculator, CCC Shoes & Bags, app for travellers (NDA), Your Card
 
 
 ## Awards
