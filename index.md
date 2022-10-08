@@ -7,7 +7,6 @@ Senior Android Developer.
 
 <div id="webaddress">
 <a href="mailto:marcinmazepa@gmail.com">marcinmazepa@gmail.com</a>
-| <a href="https://www.linkedin.com/in/marcin-mazepa-a80484130/">My LinkedIn profile</a>
 </div>
 
 
