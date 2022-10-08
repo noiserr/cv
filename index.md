@@ -25,7 +25,7 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
-## Education
+## Experience
 
 `1654-1660`
 __The King's School, Grantham.__
