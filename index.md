@@ -11,20 +11,6 @@ Senior Android Developer.
 </div>
 
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
 ## Experience
 
 `10/2021 - now`
@@ -60,9 +46,6 @@ __Android Developer @Droids on Roids__
 
 ## Education
 
-`10/2021 - now`
-__Senior Android Developer @Lite e-commerce__
-
 `2013 - 2015`
 __M.Sc Computer Science, Computer system and network__
 - Wroclaw University of Technology
@@ -71,6 +54,20 @@ __M.Sc Computer Science, Computer system and network__
 __B.Sc Electronics and Telecommunications Multimedia in telecommunications__
 - Wroclaw University of Technology
 
+
+
+## Currently
+
+Standing on the shoulders of giants
+
+### Specialized in
+
+Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+
+
+### Research interests
+
+Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ### Journals
 
