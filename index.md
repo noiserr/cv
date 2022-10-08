@@ -6,12 +6,12 @@ title: Marcin Mazepa's CV
 Senior Android Developer.
 
 <div id="webaddress">
-<a href="marcinmazepa@gmail.com">marcinmazepa@gmail.com</a>
+<a href="mailto:marcinmazepa@gmail.com">marcinmazepa@gmail.com</a>
 | <a href="https://www.linkedin.com/in/marcin-mazepa-a80484130/">My LinkedIn profile</a>
 </div>
 
 
-## Experience
+## EXPERIENCE
 
 `10/2021 - now`
 __Senior Android Developer @Lite e-commerce__
@@ -44,7 +44,7 @@ __Android Developer @Droids on Roids__
 - internship, Hematologist’s Calculator, CCC Shoes & Bags, app for travellers (NDA), Your Card
 
 
-## Education
+## EDUCATION
 
 `2013 - 2015`
 __M.Sc Computer Science, Computer system and network__
@@ -54,7 +54,16 @@ __M.Sc Computer Science, Computer system and network__
 __B.Sc Electronics and Telecommunications Multimedia in telecommunications__
 - Wroclaw University of Technology
 
+## SKILLS
 
+__Development__
+- kotlin, dagger, java, rx, coroutines, lottie, jetpack-compose
+
+__Other__
+- clean architecture, pair programming, bluetooth, custom views, android jetpack, SCRUM, unit tests, material design, animations
+
+__Languages__
+- polish native, english B2 fluent
 
 ## Currently
 
