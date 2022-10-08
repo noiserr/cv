@@ -41,7 +41,7 @@ __Android Developer @Angry Nerds__
 __Android Developer @Droids on Roids__
 
 - Wrocław Office - Software House
-- internship, Hematologist’s Calculator, 
+- internship, Hematologist’s Calculator,
 - CCC Shoes & Bags, app for travellers (NDA), Your Card
 
 
@@ -61,7 +61,8 @@ __Development__
 - kotlin, dagger, java, rx, coroutines, lottie, jetpack-compose
 
 __Other__
-- clean architecture, pair programming, bluetooth, custom views, android jetpack, SCRUM, unit tests, material design, animations
+- clean architecture, pair programming, bluetooth, custom views,
+- android jetpack, SCRUM, unit tests, material design, animations
 
 __Languages__
 - polish native, english B2 fluent
