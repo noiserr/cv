@@ -51,25 +51,22 @@ __Android Developer @Angry Nerds__
 - Wrocław Office - Software House
 - ZEISS Hunting App
 
-`10/2018 - 03/2019`
+`09/2015 - 09/2018`
 __Android Developer @Droids on Roids__
 
 - Wrocław Office - Software House
 - internship, Hematologist’s Calculator, CCC Shoes & Bags, app for travellers (NDA), Your Card
 
 
-## Awards
+## Education
 
-`2012`
-President, *Royal Society*, London, UK
+`Wroclaw University of Technology`
+M.Sc Computer Science, Computer system and network
 
-Associate, *French Academy of Science*, Paris, France
+`Wroclaw University of Technology`
+B.Sc Electronics and Telecommunications Multimedia in telecommunications
 
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Journals
 
