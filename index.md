@@ -15,31 +15,31 @@ Senior Android Developer
 `10/2021 - now`
 __Senior Android Developer @Lite e-commerce__
 
-- Remotely - Warsaw - Product
+_Remotely - Warsaw - Product
 - 2 q-commerce apps (JUSH & DELIO)
 
 `06/2019 - 08/2021`
 __Senior Android Developer @Kangaroo__
 
-_- Remotely - New York, Shenzhen - Product
+_Remotely - New York, Shenzhen - Product
 - Application for managing cheap home security system
 
 `03/2019 - 06/2019`
 __Android Developer @ingenious.io__
 
-_- Remotely - Chicago - Product
+_Remotely - Chicago - Product
 - Android app for managing building sites
 
 `10/2018 - 03/2019`
 __Android Developer @Angry Nerds__
 
-_- Wrocław Office - Software House_
+_Wrocław Office - Software House
 - ZEISS Hunting App
 
 `09/2015 - 09/2018`
 __Android Developer @Droids on Roids__
 
-_- Wrocław Office - Software House
+_Wrocław Office - Software House
 - Hematologist’s Calculator,
 - CCC Shoes & Bags, app for travellers (NDA), Your Card
 
