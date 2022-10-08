@@ -60,12 +60,16 @@ __Android Developer @Droids on Roids__
 
 ## Education
 
-`Wroclaw University of Technology`
-M.Sc Computer Science, Computer system and network
+`10/2021 - now`
+__Senior Android Developer @Lite e-commerce__
 
-`Wroclaw University of Technology`
-B.Sc Electronics and Telecommunications Multimedia in telecommunications
+`2013 - 2015`
+__M.Sc Computer Science, Computer system and network__
+- Wroclaw University of Technology
 
+`2010 - 2013`
+__B.Sc Electronics and Telecommunications Multimedia in telecommunications__
+- Wroclaw University of Technology
 
 
 ### Journals
