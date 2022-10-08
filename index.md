@@ -3,7 +3,7 @@ layout: cv
 title: Marcin Mazepa's CV
 ---
 # Marcin Mazepa
-Senior Android Developer.
+Senior Android Developer
 
 <div id="webaddress">
 <a href="mailto:marcinmazepa@gmail.com">marcinmazepa@gmail.com</a>
@@ -40,7 +40,7 @@ __Android Developer @Angry Nerds__
 __Android Developer @Droids on Roids__
 
 - Wrocław Office - Software House
-- internship, Hematologist’s Calculator,
+- Hematologist’s Calculator,
 - CCC Shoes & Bags, app for travellers (NDA), Your Card
 
 
@@ -61,7 +61,7 @@ __Development__
 
 __Other__
 - clean architecture, pair programming, bluetooth, custom views,
-- android jetpack, SCRUM, unit tests, material design, animations
+- android jetpack, AGILE, unit tests, material design, animations
 
 __Languages__
 - polish native, english B2 fluent
