@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Marcin Mazepa's CV
 ---
 # Isaac Newton
 Physicist, Mathematician, Cambridge professor.
