@@ -47,11 +47,11 @@ _- Wrocław Office - Software House
 ## EDUCATION
 
 `2013 - 2015`
-__M.Sc Computer Science, Computer system and network__
+__M.Sc. - Computer Science, Computer system and network__
 - Wroclaw University of Technology
 
 `2010 - 2013`
-__B.Sc Electronics and Telecommunications Multimedia in telecommunications__
+__B.Sc. - Electronics and Telecommunications Multimedia in telecommunications__
 - Wroclaw University of Technology
 
 ## SKILLS
